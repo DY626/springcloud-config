@@ -1,2 +1,5 @@
+spring:
+    profiles:
+        active: dev
 config:
     info: "Springcloud-config,version=1"
